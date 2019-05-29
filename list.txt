@@ -3,7 +3,6 @@ www.instagram.com
 i.instagram.com
 api.instagram.com
 platform.instagram.com
-api.service-kp.com
 m.facebook.com
 youtube-ui.l.google.com
 www.youtube.com
