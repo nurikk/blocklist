@@ -12,3 +12,4 @@ graph.facebook.com
 www.instagram.com
 api-global.netflix.com
 cdn.seasonvar.ru
+cdn.streambox.in
